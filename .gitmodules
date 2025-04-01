@@ -1,0 +1,3 @@
+[submodule "domain"]
+	path = domain
+	url = https://github.com/muradhani/MovieDomain.git
